@@ -1,0 +1,23 @@
+{
+  "name": "creating-the-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vkparamesh/creating-server.git"
+  },
+  "author": "vk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vkparamesh/creating-server/issues"
+  },
+  "homepage": "https://github.com/Vkparamesh/creating-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
